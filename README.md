@@ -20,6 +20,4 @@ https://www.linkedin.com/in/danielle-porto-de-oliveira-42b81b2a/
 
 
 ## Acknowledgments
-
-Inspiration, code snippets, etc.
 * [awesome-readme](https://github.com/matiassingers/awesome-readme)
